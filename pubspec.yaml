@@ -23,4 +23,3 @@ flutter:
       android:
         package: me.sodipto.phone_state_background
         pluginClass: PhoneStateBackgroundPlugin
-
